@@ -12,7 +12,7 @@ IMDB数据集下载和探索
 参考TensorFlow官方教程：影评文本分类  |  TensorFlow：https://tensorflow.google.cn/tutorials/keras/basic_text_classification
 
 环境
-Python 2/3 (感谢howie.hu调试Python2环境)
+Python 2/3 
 TensorFlow 1.3以上
 numpy
 scikit-learn
